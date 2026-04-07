@@ -1,0 +1,46 @@
+/* 全体 */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e3f2fd;
+  text-align: center;
+  padding-top: 50px;
+  font-size: 18px;
+}
+
+/* タイトル */
+h1 {
+  color: #1976d2;
+  font-size: 40px;
+}
+
+/* 説明文 */
+p {
+  color: #666;
+  font-size: 18px;
+}
+
+/* 入力欄 */
+input {
+  padding: 8px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+/* ボタン */
+button {
+  padding: 6px 12px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* リスト */
+ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+li {
+  margin: 10px 0;
+  font-size: 18px;
+}
