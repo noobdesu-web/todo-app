@@ -44,3 +44,17 @@ li {
   margin: 10px 0;
   font-size: 18px;
 }
+li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+input {
+  width: 200px;
+}
+li {
+  background: white;
+  padding: 10px;
+  border-radius: 5px;
+}
