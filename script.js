@@ -42,3 +42,8 @@ function createTaskElement(task) {
 
   document.getElementById("taskList").appendChild(li);
 }
+document.getElementById("taskInput").addEventListener("keypress", function(e) {
+  if (e.key === "Enter") {
+    addTask();
+  }
+});
